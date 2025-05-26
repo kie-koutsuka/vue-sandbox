@@ -35,7 +35,6 @@ https://github.com/kie-koutsuka/vue-sandbox
 ## 📖 概要
 
 - Vue 3 + Vite を使用しています。
-- UI ライブラリとして Vuetify を導入予定
 - こちらは技術設計書作成の為に必要な知識を深める為に作成しているサンプルです。
 
 ## 📌 今後の予定
